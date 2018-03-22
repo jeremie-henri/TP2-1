@@ -1,0 +1,5 @@
+*.o
+build-*
+*.pro
+*.pro.user
+*.pro.user.bin
